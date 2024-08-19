@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jonesmartins/jonesmartins** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,3 +12,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=jonesmartins&show_icons=true&hide_border=true" alt="Jones's GitHub Open Source Statistics" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonesmartins&layout=compact&hide_border=true" alt="Jones's Top Languages"/></a> |
+| ------------- | ------------- |
